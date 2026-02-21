@@ -1,0 +1,9 @@
+*
+!data
+!data/.gitkeep
+!output
+!output/.gitkeep
+!source
+!source/*
+!Makefile
+!.gitignore
